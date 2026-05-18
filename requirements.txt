@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+appwrite
+python-dotenv
+httpx
+pydantic
+google-generativeai
+google-genai
+ipdb
+pandas
+requests
+tavily-python
+langgraph
+langchain
+pydantic
+collection
